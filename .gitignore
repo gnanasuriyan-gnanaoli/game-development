@@ -59,3 +59,14 @@
 
 # Crashlytics generated file
 /**/crashlytics-build.properties
+
+
+*.DS_Store
+
+#Remove Game Play Videos
+/game-play-videos
+
+
+#Personal Ignorable Folders
+/2D-game-dev-kit
+/ray-casting
